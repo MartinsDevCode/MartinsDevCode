@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Thiago Martins</h1>
 
-<h3 align="center">Desenvolvedor em formação Delphi | Em busca da primeira oportunidade Jr</h3>
+<h3 align="center">Desenvolvedor em formação Delphi /h3>
 
 ---
 
@@ -34,18 +34,11 @@ Estudando: Delphi / POO / Lógica de programação / Banco de dados
   
 ---
 
-## 🌐 Conteúdo sobre Delphi
-
-- 📚 Compartilho dicas para iniciantes em Delphi no Instagram
-- 📲 Instagram: @martinsdevcode
-
----
-
 ## 📫 Contato
 
-- LinkedIn: Em construção
+- LinkedIn: Thiago Martins
 - Email: martins.devcode@gmail.com
 
 ---
 
-⭐ Transformando estudos em projetos reais todos os dias.
+⭐ Transformando estudos em projetos reais.
